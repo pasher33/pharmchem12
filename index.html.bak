@@ -59,8 +59,6 @@
 					</div>
 				  </div>
 			</div>
-		  </section>
-		  <section class="container-2">
 			<div class="progress">
 			  <div class="publish-progress">
 				  <div class="box">
@@ -79,8 +77,8 @@
 					</div>
 				  </div>
 			</div>
+		  </section>
         </div>
-	    </section>
         <div id="error-message"></div>
       </div>
     </div>

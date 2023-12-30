@@ -618,30 +618,6 @@ input[type="number"]::-webkit-outer-spin-button {
   align-items: center;
 }
 
-.box::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 20px;
-  height: 100%;
-  background: linear-gradient(#fff, #fff, #e3e3e3);
-  filter: blur(1px);
-  z-index: 1;
-}
-
-.box::after {
-  content: '';
-  position: absolute;
-  top: 1px;
-  right: -1px;
-  width: 20px;
-  height: 100%;
-  background: #9d9d9d;
-  filter: blur(1px);
-  z-index: 1;
-}
-
 .box .content {
   position: relative;
   width: 100%;
@@ -656,21 +632,6 @@ input[type="number"]::-webkit-outer-spin-button {
   position: relative;
   width: 150px;
   height: 150px;
-}
-
-.box .content .percent::before {
-  content: attr(data-text);
-  position: absolute;
-  inset: 20px;
-  background: #555;
-  border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #fff;
-  font-size: 1.75rem;
-  letter-spacing: 0.1rem;
-  text-transform: uppercase;
 }
 
 .box .content .percent svg {
@@ -694,8 +655,6 @@ input[type="number"]::-webkit-outer-spin-button {
   stroke-dasharray: 440;
   stroke-dashoffset: calc(440 - (440 * var(--num)) / 100);
   opacity: 0;
-  animation: fadeIn 1s linear forwards;
-  animation-delay: 1s;
 }
 
 @keyframes fadeIn {
@@ -711,7 +670,6 @@ input[type="number"]::-webkit-outer-spin-button {
   position: absolute;
   inset: 5px;
   z-index: 10;
-  animation: animateDot 1s linear forwards;
 }
 
 @keyframes animateDot {
@@ -723,17 +681,6 @@ input[type="number"]::-webkit-outer-spin-button {
   }
 }
 
-.box .content .percent .dot::before {
-  content: '';
-  position: absolute;
-  top: -7px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 14px;
-  height: 14px;
-  background: #555;
-  border-radius: 50%;
-}
 
 .box .content .number {
   position: relative;
