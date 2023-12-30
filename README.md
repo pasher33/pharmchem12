@@ -16,7 +16,7 @@ Ihre Beiträge sind entscheidend für den Erfolg dieses Projekts. Durch Spenden 
 Für jeweils 15€ wird ein Kapitel auf die Spendenseite veröffentlicht. Insgesamt beträgt das Spendenziel für das gesamte Projekt 500€.
 
 ### Wie kann ich spenden?
-[Klicken Sie hier, um über Stripe zu spenden](LINK_TO_STRIPE_DONATION)
+[Klicken Sie hier, um über Stripe zu spenden](https://pasher33.github.io/pharmchem12/)
 
 ## Dank
 Vielen Dank, dass Sie diese Projekt unterstützen!
