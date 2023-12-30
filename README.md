@@ -9,14 +9,14 @@ Dieses Projekt zielt darauf ab, etwa 30 Kapitel der Kurse Pharmazeutische Chemie
 - Verbesserung des Lernens und der Speicherung durch immersive und ansprechende Inhalte.
 - Bereitstellung einer umfassenden Ressource für Studierende, die Pharmazeutische Chemie bestehen wollen.
 
-## Wie Sie helfen können
+## Wie Sie helfen können?
 Ihre Beiträge sind entscheidend für den Erfolg dieses Projekts. Durch Spenden können Sie die Entwicklung und Fertigstellung dieser ANKI 3D Lernkarten unterstützen.
 
-## Wie erfolgt Finanzierung vom Projekt
-Für jeweils 15€ wird ein Kapitel veröffentlicht. Insgesamt beträgt das Spendenziel für das gesamte Projekt 500€.
+## Wie werden die ANKI Lernkarten veröffentlicht?
+Für jeweils 15€ wird ein Kapitel auf die Spendenseite veröffentlicht. Insgesamt beträgt das Spendenziel für das gesamte Projekt 500€.
 
 ### Wie kann ich spenden?
-[Klicken Sie hier, um über Stripe zu spenden](LINK_TO_STRIPE_DONATION)
+[Klicken Sie hier, um über Stripe zu spenden](https://pasher33.github.io/pharmchem12/)
 
 ## Dank
 Vielen Dank, dass Sie diese Projekt unterstützen!
