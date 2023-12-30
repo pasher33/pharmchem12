@@ -17,11 +17,11 @@ Du findest ein ganzes Kapitel als Beispiel hier!
 - Erstellung interaktiver und visuell ansprechender Lernmaterialien für Studierende.
 - Verbesserung des Lernens durch immersive und ansprechende Inhalte.
 
-## Wie Sie helfen können?
-Ihre Beiträge sind entscheidend für den Erfolg dieses Projekts. Durch Spenden können Sie die Entwicklung und Fertigstellung dieser ANKI 3D Lernkarten unterstützen.
+## Wie du helfen kannst?
+Deine Beiträge sind entscheidend für den Erfolg dieses Projekts. Durch Spenden kannst du die Entwicklung und Fertigstellung dieser ANKI 3D Lernkarten unterstützen.
 
 ## Wie werden die ANKI Lernkarten veröffentlicht?
-Für jeweils 15€ wird ungefähr ein Kapitel veröffentlicht. Insgesamt beträgt das Spendenziel für das gesamte Projekt 500€.
+Für jeweils 15€ wird ungefähr ein Kapitel veröffentlicht. Insgesamt beträgt das Spendenziel für das gesamte Projekt 500€. <a href="https://github.com/pasher33/pharmchem12/tree/main/karten">Du findest alle veöffentlichte Karten hier!</a>
 
 ### Wie kann ich spenden?
 [Klicken Sie hier, um über Stripe zu spenden](https://pasher33.github.io/pharmchem12/)
