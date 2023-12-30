@@ -21,7 +21,7 @@ Du findest ein ganzes Kapitel als Beispiel hier!
 Deine Beiträge sind entscheidend für den Erfolg dieses Projekts. Durch Spenden kannst du die Entwicklung und Fertigstellung dieser ANKI 3D Lernkarten unterstützen.
 
 ## Wie werden die ANKI Lernkarten veröffentlicht?
-Für jeweils 15€ wird ungefähr ein Kapitel veröffentlicht (ca. 30 Kapiteln und max insg. 500€ für das gesamte Projekt). <a href="https://github.com/pasher33/pharmchem12/tree/main/karten">Du findest alle veöffentlichte Karten hier!</a>
+Pro jeweils 15€ wird ungefähr ein Kapitel veröffentlicht (ca. 30 Kapiteln und max insg. 500€ für das gesamte Projekt). <a href="https://github.com/pasher33/pharmchem12/tree/main/karten">Du findest alle veöffentlichte Karten hier!</a>
 
 ### Wie kann ich spenden?
 [Klicke hier, um über die Statistik-Seite zu spenden](https://pasher33.github.io/pharmchem12/)
