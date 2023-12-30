@@ -20,33 +20,24 @@
         </header>
         <div class="sr-container">
           <section class="container">
-            <h1>One-time Donation</h1>
+            <h1>Universitätsprojekt: Pharmazeutische Chemie 1 und 2 Kurs 3D ANKI Karten</h1>
             <button
               data-checkout-mode="payment"
               data-price-id="sku_GU4JYXyvvRb2sX"
             >
-              Donate $5.00 once
+              Spende 15€ (1 Kapitel)
             </button>
             <button
               data-checkout-mode="payment"
               data-price-id="sku_GU4KO8nfdg8G2Z"
             >
-              Donate $15.00 once
+              Spende 30€ (2 Kapiteln)
             </button>
             <button
               data-checkout-mode="payment"
               data-price-id="sku_GU4LB0wBViiYsm"
             >
-              Donate $50.00 once
-            </button>
-          </section>
-          <section class="container">
-            <h1>Recurring Donation</h1>
-            <button
-              data-checkout-mode="subscription"
-              data-price-id="plan_GU4MXg0k0Uv1S6"
-            >
-              Donate $20.00 per month
+              Spende 45€ (3 Kapiteln)
             </button>
           </section>
         </div>
