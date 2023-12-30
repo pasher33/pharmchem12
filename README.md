@@ -24,7 +24,9 @@ Deine Beiträge sind entscheidend für den Erfolg dieses Projekts. Durch Spenden
 Für jeweils 15€ wird ungefähr ein Kapitel veröffentlicht. Insgesamt beträgt das Spendenziel für das gesamte Projekt 500€. <a href="https://github.com/pasher33/pharmchem12/tree/main/karten">Du findest alle veöffentlichte Karten hier!</a>
 
 ### Wie kann ich spenden?
-[Klicke hier, um über Stripe zu spenden](https://pasher33.github.io/pharmchem12/)
+[Klicke hier, um über Paypal zu spenden](https://pasher33.github.io/pharmchem12/)
+oder direkt über diese Link:
+https://www.paypal.com/donate/?hosted_button_id=K9T4EG4BSKGUQ
 
 ## Dank
 Vielen Dank, dass du diese Projekt unterstützst!
