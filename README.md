@@ -1,7 +1,7 @@
 # Universitätsprojekt: Pharmazeutische Chemie 1 und 2 Kurs 3D ANKI Karten
 
 ## Über
-Ziel dieses Projekts ist etwa 30 Kapitel der Kurse Pharmazeutische Chemie 1 und 2 in ANKI 3D Lernkarten umzuwandeln. Diese Karten sind darauf ausgelegt, den Lernprozess für Studierende zu erleichtern, indem sie interaktive, visuell ansprechende und umfassende Lernmaterialien bieten. Ein Beispiel sieht so aus:
+Ziel dieses Projekts ist etwa 30 Kapitel der Kurse Pharmazeutische Chemie 1 und 2 in ANKI 3D Lernkarten umzuwandeln. Diese Karten sind darauf ausgelegt, den Lernprozess für Studierende zu erleichtern, indem sie interaktive und visuell ansprechende Lernmaterialien bieten. Ein Beispiel sieht so aus:
 
 <img src="/acetylcysteine.gif">
 Acetylcysteine
