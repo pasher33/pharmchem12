@@ -487,7 +487,21 @@ pre {
 .container:first-of-type {
   margin-right: 20px;
 }
+.container-2 {
+  padding: 32px 28px;
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  min-width: 250px;
+}
 
+.container-2 .pasha-image-stack {
+  margin-top: 20px;
+}
+
+.container-2:first-of-type {
+  margin-right: 20px;
+}
 .quantity-setter {
   display: flex;
   justify-content: center;
