@@ -12,6 +12,11 @@ Acetylcysteine
 Du findest ein ganzes Kapitel als Beispiel hier!
 </a>
 
+
+## Wie kann ich .colpkg in Anki nutzen?
+
+Es ist ratsam, ein neues Benutzerprofil in Anki anzulegen, da Anki Videos nur im .colpkg-Format unterstützt, das ältere Decks überschreibt. 
+
 ## Projektziele
 - Konvertieren von ca. 30 Kapiteln aus den Kursen Pharmazeutische Chemie 1 und 2 in ANKI 3D Lernkarten.
 - Erstellung interaktiver und visuell ansprechender Lernmaterialien für Studierende.
