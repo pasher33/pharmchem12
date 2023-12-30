@@ -6,10 +6,12 @@ Ziel dieses Projekts ist etwa 30 Kapitel der Kurse Pharmazeutische Chemie 1 und 
 <img src="/acetylcysteine.gif">
 Acetylcysteine
 
-Es ist ein komplettes Kapitel als Beispiel enthalten, das veranschaulicht, wie das Lernmaterial gestaltet sein wird.
+## Beispiel Kapitel
+
 <a href="https://github.com/pasher33/pharmchem12/tree/main/karten">
-Du findest es hier!
+Du findest ein ganzes Kapitel als Beispiel hier!
 </a>
+
 ## Projektziele
 - Konvertieren von ca. 30 Kapiteln aus den Kursen Pharmazeutische Chemie 1 und 2 in ANKI 3D Lernkarten.
 - Erstellung interaktiver und visuell ansprechender Lernmaterialien für Studierende.
