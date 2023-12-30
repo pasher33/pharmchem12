@@ -12,7 +12,7 @@ Dieses Projekt zielt darauf ab, etwa 30 Kapitel der Kurse Pharmazeutische Chemie
 ## Wie Sie helfen können?
 Ihre Beiträge sind entscheidend für den Erfolg dieses Projekts. Durch Spenden können Sie die Entwicklung und Fertigstellung dieser ANKI 3D Lernkarten unterstützen.
 
-## Wie erfolgt die Veröffentlichung von ANKI Lernkarten?
+## Wie werden die ANKI Lernkarten veröffentlicht?
 Für jeweils 15€ wird ein Kapitel auf die Spendenseite veröffentlicht. Insgesamt beträgt das Spendenziel für das gesamte Projekt 500€.
 
 ### Wie kann ich spenden?
