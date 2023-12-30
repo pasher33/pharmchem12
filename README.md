@@ -28,5 +28,5 @@ Für jeweils 15€ wird ungefähr ein Kapitel veröffentlicht (ca. 30 Kapiteln u
 oder direkt über diese Link:
 https://www.paypal.com/donate/?hosted_button_id=K9T4EG4BSKGUQ
 
-## Dank
+## Dankeschön
 Vielen Dank, dass du diese Projekt unterstützst!
