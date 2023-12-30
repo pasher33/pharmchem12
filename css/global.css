@@ -467,18 +467,23 @@ pre {
 }
 
 /* Custom */
-.sr-container {
-  display: flex;
-}
+
 .container {
   border: 1px solid #e8e8e8;
   border-radius: 6px;
+  padding: 32px 28px;
+  display: flex;
+  flex-direction: column;
   max-width: 400px;
   min-width: 250px;
 }
 
 .container .pasha-image-stack {
   margin-top: 20px;
+}
+
+.container:first-of-type {
+  margin-right: 20px;
 }
 
 .quantity-setter {
