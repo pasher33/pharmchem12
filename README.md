@@ -30,7 +30,7 @@ Gründsätzlich es ist ein Monat von Arbeit, was leider sich nur so nicht lohnt,
 
 Herunterladen erfolgt über dieses Button:
 
-<img src="/info.png">
+<img src="/info-b.png">
 
 ### Wie kann ich spenden?
 [Klicke hier, um über die Statistik-Seite zu spenden](https://pasher33.github.io/pharmchem12/)
