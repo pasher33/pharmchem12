@@ -6,10 +6,10 @@ Ziel dieses Projekts ist etwa 30 Kapitel der Kurse Pharmazeutische Chemie 1 und 
 <img src="/acetylcysteine.gif">
 Acetylcysteine
 
-## Beispiel Kapitel
+## Beispiel Kapiteln
 
 <a href="https://github.com/pasher33/pharmchem12/tree/main/karten">
-Du findest ein ganzes Kapitel als Beispiel hier!
+Du findest schon Veröffentlichte Kapiteln hier!
 </a>
 
 
