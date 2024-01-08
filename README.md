@@ -8,7 +8,7 @@ Acetylcysteine
 
 ## Beispiel Kapiteln
 
-<a href="https://github.com/pasher33/pharmchem12/tree/main/karten">
+<a href="https://github.com/pasher33/pharmchem12/releases">
 Du findest schon Veröffentlichte Kapiteln hier!
 </a>
 
